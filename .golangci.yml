@@ -24,7 +24,7 @@ formatters:
 formatters-settings:
   goimports:
     local-prefixes:
-      - github.com/kaz-under-the-bridge/google-cloud-ops-mcp
+      - github.com/under-the-bridge-hq/google-cloud-ops-mcp
 
 linters-settings:
   errcheck:

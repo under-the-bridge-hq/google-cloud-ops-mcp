@@ -8,11 +8,11 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/kaz-under-the-bridge/google-cloud-ops-mcp/internal/config"
-	"github.com/kaz-under-the-bridge/google-cloud-ops-mcp/internal/guardrail"
-	"github.com/kaz-under-the-bridge/google-cloud-ops-mcp/internal/logging"
-	"github.com/kaz-under-the-bridge/google-cloud-ops-mcp/internal/mcp"
-	"github.com/kaz-under-the-bridge/google-cloud-ops-mcp/internal/monitoring"
+	"github.com/under-the-bridge-hq/google-cloud-ops-mcp/internal/config"
+	"github.com/under-the-bridge-hq/google-cloud-ops-mcp/internal/guardrail"
+	"github.com/under-the-bridge-hq/google-cloud-ops-mcp/internal/logging"
+	"github.com/under-the-bridge-hq/google-cloud-ops-mcp/internal/mcp"
+	"github.com/under-the-bridge-hq/google-cloud-ops-mcp/internal/monitoring"
 )
 
 const (

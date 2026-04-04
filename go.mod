@@ -1,4 +1,4 @@
-module github.com/kaz-under-the-bridge/google-cloud-ops-mcp
+module github.com/under-the-bridge-hq/google-cloud-ops-mcp
 
 go 1.24.0
 
