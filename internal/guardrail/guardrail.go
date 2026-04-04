@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/kaz-under-the-bridge/google-cloud-ops-mcp/internal/config"
+	"github.com/under-the-bridge-hq/google-cloud-ops-mcp/internal/config"
 )
 
 // Guardrail はクエリのガードレールを実装
